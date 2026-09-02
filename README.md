@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Ycaro 👋
+### 🏛️ Software Engineer | Systems Architecture
 
-<!--
-**YcaroRodriguesDeveloper/YcaroRodriguesDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Systems Architect especializado no desenvolvimento de sistemas distribuídos de alta escalabilidade, tolerância a falhas e otimização de performance multigranular.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Core Tech Stack
+
+#### 💻 Linguagens de Programação
+* **Python** 🐍
+* **C++** ⚙️
+* **Java** ☕
+* **JavaScript** 🌐
+
+#### 🗄️ Infraestrutura, DevOps & Hardware
+* **Docker** 🐳
+* **PostgreSQL** 🐘
+* **AWS** ☁️
+* **Memory & RAM Optimization** 💾
+
+---
+
+### 🎮 Dev Life & Discord System Status
+
+#### 🛠️ Current Status (Discord Style)
+<p align="left">
+  <img src="https://shields.io" alt="Meme 1" />&nbsp;
+  <img src="https://shields.io" alt="Meme 2" />&nbsp;
+  <img src="https://shields.io" alt="Meme 3" />
+</p>
+
